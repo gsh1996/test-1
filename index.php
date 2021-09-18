@@ -1,4 +1,4 @@
 <?php
-    echo "1x";
+    echo "1xmaster";
     echo "2";
 ?>
